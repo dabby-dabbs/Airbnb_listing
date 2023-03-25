@@ -54,4 +54,3 @@ fig.update_layout(mapbox_style="stamen-terrain")
 
 # Show the figure
 st.plotly_chart(fig, use_container_width=True)
-
